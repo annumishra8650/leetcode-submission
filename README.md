@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/annumishra8650/leetcode-submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3693-climbing-stairs-ii](https://github.com/annumishra8650/leetcode-submission/tree/master/3693-climbing-stairs-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/annumishra8650/leetcode-submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/annumishra8650/leetcode-submission/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
