@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/annumishra8650/leetcode-submission/tree/master/0035-search-insert-position) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/annumishra8650/leetcode-submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3693-climbing-stairs-ii](https://github.com/annumishra8650/leetcode-submission/tree/master/3693-climbing-stairs-ii) |
 ## Heap (Priority Queue)
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/annumishra8650/leetcode-submission/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/annumishra8650/leetcode-submission/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
