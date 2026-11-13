@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/annumishra8650/leetcode-submission/tree/master/0035-search-insert-position) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/annumishra8650/leetcode-submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/annumishra8650/leetcode-submission/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/annumishra8650/leetcode-submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/annumishra8650/leetcode-submission/tree/master/3693-climbing-stairs-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -64,4 +65,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/annumishra8650/leetcode-submission/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/annumishra8650/leetcode-submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/annumishra8650/leetcode-submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/annumishra8650/leetcode-submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Sliding Window
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/annumishra8650/leetcode-submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/annumishra8650/leetcode-submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/annumishra8650/leetcode-submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
