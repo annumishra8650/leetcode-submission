@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/annumishra8650/leetcode-submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/annumishra8650/leetcode-submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/annumishra8650/leetcode-submission/tree/master/0242-valid-anagram) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/annumishra8650/leetcode-submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sorting
 |  |
 | ------- |
