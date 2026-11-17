@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/annumishra8650/leetcode-submission/tree/master/0412-fizz-buzz) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/annumishra8650/leetcode-submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/annumishra8650/leetcode-submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/annumishra8650/leetcode-submission/tree/master/0412-fizz-buzz) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/annumishra8650/leetcode-submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/annumishra8650/leetcode-submission/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Greedy
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/annumishra8650/leetcode-submission/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/annumishra8650/leetcode-submission/tree/master/0412-fizz-buzz) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/annumishra8650/leetcode-submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/annumishra8650/leetcode-submission/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
