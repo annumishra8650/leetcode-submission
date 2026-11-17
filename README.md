@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/annumishra8650/leetcode-submission/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/annumishra8650/leetcode-submission/tree/master/0412-fizz-buzz) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/annumishra8650/leetcode-submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/annumishra8650/leetcode-submission/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/annumishra8650/leetcode-submission/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/annumishra8650/leetcode-submission/tree/master/0412-fizz-buzz) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/annumishra8650/leetcode-submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/annumishra8650/leetcode-submission/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/annumishra8650/leetcode-submission/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/annumishra8650/leetcode-submission/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
