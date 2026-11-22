@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/annumishra8650/leetcode-submission/tree/master/0232-implement-queue-using-stacks) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/annumishra8650/leetcode-submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Segment Tree
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/annumishra8650/leetcode-submission/tree/master/0232-implement-queue-using-stacks) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/annumishra8650/leetcode-submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sliding Window
 |  |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/annumishra8650/leetcode-submission/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/annumishra8650/leetcode-submission/tree/master/0182-duplicate-emails) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/annumishra8650/leetcode-submission/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
