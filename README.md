@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/annumishra8650/leetcode-submission/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/annumishra8650/leetcode-submission/tree/master/0232-implement-queue-using-stacks) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/annumishra8650/leetcode-submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Segment Tree
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/annumishra8650/leetcode-submission/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/annumishra8650/leetcode-submission/tree/master/0232-implement-queue-using-stacks) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/annumishra8650/leetcode-submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sliding Window
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/annumishra8650/leetcode-submission/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/annumishra8650/leetcode-submission/tree/master/0232-implement-queue-using-stacks) |
 | [1352-product-of-the-last-k-numbers](https://github.com/annumishra8650/leetcode-submission/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
