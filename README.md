@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/annumishra8650/leetcode-submission/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/annumishra8650/leetcode-submission/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/annumishra8650/leetcode-submission/tree/master/0412-fizz-buzz) |
 | [1352-product-of-the-last-k-numbers](https://github.com/annumishra8650/leetcode-submission/tree/master/1352-product-of-the-last-k-numbers) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/annumishra8650/leetcode-submission/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/annumishra8650/leetcode-submission/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/annumishra8650/leetcode-submission/tree/master/0412-fizz-buzz) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/annumishra8650/leetcode-submission/tree/master/2124-check-if-all-as-appears-before-all-bs) |
