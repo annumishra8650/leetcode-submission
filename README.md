@@ -63,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/annumishra8650/leetcode-submission/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/annumishra8650/leetcode-submission/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/annumishra8650/leetcode-submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/annumishra8650/leetcode-submission/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/annumishra8650/leetcode-submission/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/annumishra8650/leetcode-submission/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/annumishra8650/leetcode-submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/annumishra8650/leetcode-submission/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/annumishra8650/leetcode-submission/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/annumishra8650/leetcode-submission/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/annumishra8650/leetcode-submission/tree/master/0144-binary-tree-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/annumishra8650/leetcode-submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/annumishra8650/leetcode-submission/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/annumishra8650/leetcode-submission/tree/master/0232-implement-queue-using-stacks) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/annumishra8650/leetcode-submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
