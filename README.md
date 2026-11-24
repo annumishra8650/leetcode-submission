@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/annumishra8650/leetcode-submission/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/annumishra8650/leetcode-submission/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/annumishra8650/leetcode-submission/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/annumishra8650/leetcode-submission/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/annumishra8650/leetcode-submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/annumishra8650/leetcode-submission/tree/master/3693-climbing-stairs-ii) |
 ## Heap (Priority Queue)
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/annumishra8650/leetcode-submission/tree/master/0412-fizz-buzz) |
 | [1352-product-of-the-last-k-numbers](https://github.com/annumishra8650/leetcode-submission/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/annumishra8650/leetcode-submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/annumishra8650/leetcode-submission/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/annumishra8650/leetcode-submission/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Greedy
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/annumishra8650/leetcode-submission/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/annumishra8650/leetcode-submission/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/annumishra8650/leetcode-submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/annumishra8650/leetcode-submission/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/annumishra8650/leetcode-submission/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Database
 |  |
 | ------- |
@@ -169,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/annumishra8650/leetcode-submission/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/annumishra8650/leetcode-submission/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
