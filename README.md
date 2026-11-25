@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/annumishra8650/leetcode-submission/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/annumishra8650/leetcode-submission/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/annumishra8650/leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/annumishra8650/leetcode-submission/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3934-smallest-unique-subarray](https://github.com/annumishra8650/leetcode-submission/tree/master/3934-smallest-unique-subarray) |
 ## String
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/annumishra8650/leetcode-submission/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/annumishra8650/leetcode-submission/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/annumishra8650/leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/annumishra8650/leetcode-submission/tree/master/0412-fizz-buzz) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/annumishra8650/leetcode-submission/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/annumishra8650/leetcode-submission/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/annumishra8650/leetcode-submission/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/annumishra8650/leetcode-submission/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/annumishra8650/leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/annumishra8650/leetcode-submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sliding Window
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/annumishra8650/leetcode-submission/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/annumishra8650/leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
