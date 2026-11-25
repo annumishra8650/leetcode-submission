@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/annumishra8650/leetcode-submission/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/annumishra8650/leetcode-submission/tree/master/0169-majority-element) |
+| [0228-summary-ranges](https://github.com/annumishra8650/leetcode-submission/tree/master/0228-summary-ranges) |
 | [1352-product-of-the-last-k-numbers](https://github.com/annumishra8650/leetcode-submission/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/annumishra8650/leetcode-submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/annumishra8650/leetcode-submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
