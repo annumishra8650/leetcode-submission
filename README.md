@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/annumishra8650/leetcode-submission/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/annumishra8650/leetcode-submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/annumishra8650/leetcode-submission/tree/master/3693-climbing-stairs-ii) |
+| [3934-smallest-unique-subarray](https://github.com/annumishra8650/leetcode-submission/tree/master/3934-smallest-unique-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/annumishra8650/leetcode-submission/tree/master/0035-search-insert-position) |
+| [3934-smallest-unique-subarray](https://github.com/annumishra8650/leetcode-submission/tree/master/3934-smallest-unique-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/annumishra8650/leetcode-submission/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/annumishra8650/leetcode-submission/tree/master/0242-valid-anagram) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/annumishra8650/leetcode-submission/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/annumishra8650/leetcode-submission/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -183,4 +186,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/annumishra8650/leetcode-submission/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/annumishra8650/leetcode-submission/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/annumishra8650/leetcode-submission/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/annumishra8650/leetcode-submission/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
