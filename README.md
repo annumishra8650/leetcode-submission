@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/annumishra8650/leetcode-submission/tree/master/0392-is-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/annumishra8650/leetcode-submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/annumishra8650/leetcode-submission/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/annumishra8650/leetcode-submission/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/annumishra8650/leetcode-submission/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/annumishra8650/leetcode-submission/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/annumishra8650/leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/annumishra8650/leetcode-submission/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/annumishra8650/leetcode-submission/tree/master/0412-fizz-buzz) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/annumishra8650/leetcode-submission/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/annumishra8650/leetcode-submission/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/annumishra8650/leetcode-submission/tree/master/0392-is-subsequence) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/annumishra8650/leetcode-submission/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Number Theory
 |  |
