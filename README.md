@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/annumishra8650/leetcode-submission/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/annumishra8650/leetcode-submission/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/annumishra8650/leetcode-submission/tree/master/0228-summary-ranges) |
+| [0349-intersection-of-two-arrays](https://github.com/annumishra8650/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/annumishra8650/leetcode-submission/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/annumishra8650/leetcode-submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/annumishra8650/leetcode-submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/annumishra8650/leetcode-submission/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/annumishra8650/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [3934-smallest-unique-subarray](https://github.com/annumishra8650/leetcode-submission/tree/master/3934-smallest-unique-subarray) |
 ## Tree
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/annumishra8650/leetcode-submission/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/annumishra8650/leetcode-submission/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/annumishra8650/leetcode-submission/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/annumishra8650/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/annumishra8650/leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/annumishra8650/leetcode-submission/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3934-smallest-unique-subarray](https://github.com/annumishra8650/leetcode-submission/tree/master/3934-smallest-unique-subarray) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/annumishra8650/leetcode-submission/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/annumishra8650/leetcode-submission/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/annumishra8650/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/annumishra8650/leetcode-submission/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/annumishra8650/leetcode-submission/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/annumishra8650/leetcode-submission/tree/master/3947-maximum-number-of-items-from-sale-ii) |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/annumishra8650/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/annumishra8650/leetcode-submission/tree/master/0392-is-subsequence) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/annumishra8650/leetcode-submission/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Number Theory
