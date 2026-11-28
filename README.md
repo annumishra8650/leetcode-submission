@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/annumishra8650/leetcode-submission/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/annumishra8650/leetcode-submission/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/annumishra8650/leetcode-submission/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/annumishra8650/leetcode-submission/tree/master/0412-fizz-buzz) |
 | [1352-product-of-the-last-k-numbers](https://github.com/annumishra8650/leetcode-submission/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/annumishra8650/leetcode-submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
